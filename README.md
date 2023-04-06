@@ -12,7 +12,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluewolf31666&show_icons=true&theme=default)
 
 
-#🎮 favorite game
-
-#Lostark
-#![](https://github.com/Bluewolf31666/Bluewolf31666/blob/main/OST___Plague_Legion_Commander_Illiakan__LOST_.gif)
