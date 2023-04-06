@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=welcome&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=defalut&height=300&section=header&text=welcome&fontSize=70" />
 📋 Once I've Used
 <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-000000?style=flat&logo=PyTorch&logoColor=#EE4C2C"/></a>
 <a href="https://python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=flat&logo=Python&logoColor=#3776AB"/></a>
