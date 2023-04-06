@@ -10,3 +10,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluewolf31666&show_icons=true&theme=default)
+
+
+🎮 favorite game
+
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc](https://youtu.be/1k6gUNGwqk0)
