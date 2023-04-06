@@ -5,4 +5,4 @@
 <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=TensorFlow&logoColor=#FF6F00"/></a>
 
 📝 git log
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluewolf31666&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluewolf31666&show_icons=true&theme=default)
