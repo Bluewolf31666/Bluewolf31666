@@ -14,5 +14,5 @@
 
 🎮 favorite game
 
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://youtu.be/8YxaYLqkL1s)
-
+Lostark
+![](https://github.com/Bluewolf31666/Bluewolf31666/blob/main/OST___Plague_Legion_Commander_Illiakan__LOST_.gif)
