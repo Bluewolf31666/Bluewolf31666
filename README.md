@@ -14,4 +14,5 @@
 
 🎮 favorite game
 
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc](https://youtu.be/1k6gUNGwqk0)
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://youtu.be/8YxaYLqkL1s)
+
